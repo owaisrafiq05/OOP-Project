@@ -1,0 +1,39 @@
+# ninja log v5
+49	3444	7360587859422887	Ecommerce-Cpp_autogen/timestamp	7e2fb00a2ee4dcd6
+49	3444	7360587859422887	Ecommerce-Cpp_autogen/mocs_compilation.cpp	7e2fb00a2ee4dcd6
+3574	19670	7360588021215420	CMakeFiles/Ecommerce-Cpp.dir/mainwindow2.cpp.obj	c8457241ab37e4f0
+2018	33149	7359250375917352	CMakeFiles/Ecommerce-Cpp.dir/Ecommerce-Cpp_autogen/mocs_compilation.cpp.obj	c099dc793681bec6
+49	3444	7360587859422887	D:/OOP PROJECT/Ecommerce-Cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Ecommerce-Cpp_autogen/timestamp	7e2fb00a2ee4dcd6
+3700	19723	7360588022034768	CMakeFiles/Ecommerce-Cpp.dir/mainwindowseller.cpp.obj	7f43987c4005f3f3
+49	3444	7360587859422887	D:/OOP PROJECT/Ecommerce-Cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Ecommerce-Cpp_autogen/mocs_compilation.cpp	7e2fb00a2ee4dcd6
+3568	19663	7360588020959010	CMakeFiles/Ecommerce-Cpp.dir/mainwindow.cpp.obj	43017927039d64ae
+4916	25706	7356624073158641	CMakeFiles/Ecommerce-Cpp.dir/main.cpp.obj	1f4bc755c297a66d
+3563	19740	7360588021934700	CMakeFiles/Ecommerce-Cpp.dir/mainwindowadm.cpp.obj	8331b9e4c62b5c8b
+3689	19655	7360588020926505	CMakeFiles/Ecommerce-Cpp.dir/mainwindowadm2.cpp.obj	b9876a00fffb7bf6
+3678	19764	7360588022231150	CMakeFiles/Ecommerce-Cpp.dir/mainwindowseller3.cpp.obj	465591e124b1b012
+19656	32583	7360588150795419	CMakeFiles/Ecommerce-Cpp.dir/mainwindowseller2.cpp.obj	5751a2578c1bc3e9
+19664	33131	7360588156240930	CMakeFiles/Ecommerce-Cpp.dir/mainwindowuser.cpp.obj	c3f8542d62df2ddf
+19671	31908	7360588143660501	CMakeFiles/Ecommerce-Cpp.dir/mainwindowseller4.cpp.obj	449562f101e84c2f
+24890	30302	7356624119322581	CMakeFiles/Ecommerce-Cpp.dir/AdminTableLogic.cpp.obj	7c71cf96340459a2
+24969	30515	7356624121461260	CMakeFiles/Ecommerce-Cpp.dir/Login_Filing.cpp.obj	bc5320790bd79d6f
+19764	31936	7360588144048409	CMakeFiles/Ecommerce-Cpp.dir/mainwindoweditinfo.cpp.obj	eac5a91cf6ad0f2c
+39977	42555	7359290863257484	Ecommerce-Cpp.exe	2a08475c0353424f
+23327	31978	7359250369486285	CMakeFiles/Ecommerce-Cpp.dir/mainwindowuser2.cpp.obj	1e5668bd0c256dbc
+19741	32416	7360588149108197	CMakeFiles/Ecommerce-Cpp.dir/mainwindowuser3.cpp.obj	7f0a8e9c1662e923
+35	681	7360588539270881	Ecommerce-Cpp_autogen/timestamp	7e2fb00a2ee4dcd6
+35	681	7360588539270881	Ecommerce-Cpp_autogen/mocs_compilation.cpp	7e2fb00a2ee4dcd6
+35	681	7360588539270881	D:/OOP PROJECT/Ecommerce-Cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Ecommerce-Cpp_autogen/timestamp	7e2fb00a2ee4dcd6
+35	681	7360588539270881	D:/OOP PROJECT/Ecommerce-Cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Ecommerce-Cpp_autogen/mocs_compilation.cpp	7e2fb00a2ee4dcd6
+728	13277	7360588665170644	CMakeFiles/Ecommerce-Cpp.dir/mainwindow2.cpp.obj	c8457241ab37e4f0
+722	13550	7360588667875706	CMakeFiles/Ecommerce-Cpp.dir/mainwindow.cpp.obj	43017927039d64ae
+734	14335	7360588675702705	CMakeFiles/Ecommerce-Cpp.dir/mainwindowseller.cpp.obj	7f43987c4005f3f3
+716	14649	7360588678803071	CMakeFiles/Ecommerce-Cpp.dir/mainwindowadm.cpp.obj	8331b9e4c62b5c8b
+13550	21692	7360588749211416	CMakeFiles/Ecommerce-Cpp.dir/mainwindowseller4.cpp.obj	449562f101e84c2f
+13277	22323	7360588755485238	CMakeFiles/Ecommerce-Cpp.dir/mainwindowseller2.cpp.obj	5751a2578c1bc3e9
+14650	22836	7360588760766760	CMakeFiles/Ecommerce-Cpp.dir/mainwindoweditinfo.cpp.obj	eac5a91cf6ad0f2c
+14335	24194	7360588774257033	CMakeFiles/Ecommerce-Cpp.dir/mainwindowuser.cpp.obj	c3f8542d62df2ddf
+740	30868	7360588790902930	CMakeFiles/Ecommerce-Cpp.dir/mainwindowseller3.cpp.obj	465591e124b1b012
+745	30885	7360588791154499	CMakeFiles/Ecommerce-Cpp.dir/mainwindowadm2.cpp.obj	b9876a00fffb7bf6
+21693	30901	7360588841144506	CMakeFiles/Ecommerce-Cpp.dir/mainwindowuser3.cpp.obj	7f0a8e9c1662e923
+22323	31100	7360588843500359	CMakeFiles/Ecommerce-Cpp.dir/mainwindowuser2.cpp.obj	1e5668bd0c256dbc
+31101	35794	7360588890266724	Ecommerce-Cpp.exe	2a08475c0353424f

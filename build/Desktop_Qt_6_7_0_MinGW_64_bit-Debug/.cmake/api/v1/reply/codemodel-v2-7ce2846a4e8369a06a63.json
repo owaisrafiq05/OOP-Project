@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dd2d6241f521be66b8c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ecommerce-Cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ecommerce-Cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ecommerce-Cpp-Debug-3d984499c671c2b85c4b.json",
+					"name" : "Ecommerce-Cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ecommerce-Cpp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ecommerce-Cpp_autogen-Debug-b2eb5a9feefc2bb7c0ae.json",
+					"name" : "Ecommerce-Cpp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ecommerce-Cpp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ecommerce-Cpp_autogen_timestamp_deps-Debug-b6dd6f0b8695b818ce45.json",
+					"name" : "Ecommerce-Cpp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/OOP PROJECT/Ecommerce-Cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "D:/OOP PROJECT/Ecommerce-Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

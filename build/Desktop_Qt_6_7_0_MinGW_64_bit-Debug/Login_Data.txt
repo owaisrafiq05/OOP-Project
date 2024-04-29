@@ -1,0 +1,171 @@
+_________________________________ ADMIN _________________________________
+
+
+######### Talal #########
+Username: Talal Ali
+Password: Fast1234
+Email: k232003@nu.edu.pk
+############################
+
+
+######### Owais #########
+Username: Owais Rafiq
+Password: KHIFast
+Email: k232042@nu.edu.pk
+############################
+
+
+######### Abu Bakr #########
+Username: Abu Bakr
+Password: FastNUCES
+Email: k232025@nu.edu.pk
+############################
+
+_________________________________________________________________________
+
+
+
+
+
+_________________________________ USER __________________________________
+
+
+######### User 1  #########
+Username: Altaf Farooq
+Password: tommyCat
+Email: Altaf@gmail.com
+############################
+
+
+######### User 5  #########
+Username: Saleem Memon
+Password: qwertyuiop
+Email: Saleem@gmail.com
+############################
+
+######### User 6  #########
+Username: Farooq Hoja
+Password: qwerty123
+Email: Farooq@gmail.com
+############################
+
+
+######### User 8  #########
+Username: Aayein
+Password: 123456
+Email: aayein@gmail.com
+############################
+
+
+_________________________________________________________________________
+
+
+
+
+
+
+_________________________________ SELLER ________________________________
+
+######### Seller 2  #########
+Username: Ali Shaban
+Password: qwerty1
+Email: Shaban@yahoo.com
+############################
+
+
+######### Seller 3  #########
+Username: Huzaifa
+Password: test12
+Email: Huzaifa@yahoo.com
+############################
+
+######################
+Id: 505
+Name: Watch
+Description: A good looking elegant premium looking watch
+Quantity: 40
+Price: 43.56
+
+
+
+
+
+######################
+Id: 259
+Name: Wireless Bluetooth Headphones
+Description: Noise-canceling feature, long battery life, comfortable over-ear design
+Quantity: 40
+Price: 89.99
+
+
+
+
+
+######################
+Id: 552
+Name: Smartwatch with Fitness Tracker
+Description: Tracks heart rate, steps, and calories burned, compatible with iOS and Android
+Quantity: 35
+Price: 129.99
+
+
+
+
+
+######################
+Id: 139
+Name: Portable External Hard Drive
+Description: 2TB storage capacity, USB 3.0 compatibility, sleek and durable design
+Quantity: 25
+Price: 79.95
+
+
+
+
+
+######################
+Id: 979
+Name: Digital Camera Bundle
+Description: 24MP resolution, 4K video recording, includes lenses and accessories
+Quantity: 15
+Price: 599.95
+
+
+
+
+
+######################
+Id: 563
+Name: Gaming Laptop
+Description: High-performance processor, dedicated graphics card, RGB backlit keyboard
+Quantity: 10
+Price: 1499.99
+
+
+
+
+######### Seller 4  #########
+Username: Faiq Afait
+Password: qwerty3
+Email: Afait@hotmail.com
+############################
+
+######################
+Id: 500
+Name: Earbuds
+Description: High-performance Earbuds, 10/10 Condition with moneyback garantee.
+Quantity: 10
+Price: 499.99
+
+
+
+
+
+######### Seller 7  #########
+Username: Test
+Password: Testtest
+Email: test@gmail.com
+############################
+
+
+_________________________________________________________________________

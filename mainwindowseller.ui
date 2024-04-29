@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindowSELLER</class>
+ <widget class="QMainWindow" name="MainWindowSELLER">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>821</width>
+    <height>591</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true">background-color:  black;</string>
+   </property>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>789</x>
+      <y>779</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: blue;
+font-size: larger;
+font-weight: 400;
+border: none;
+border-radius: 20px;
+background-color: white;</string>
+    </property>
+    <property name="text">
+     <string>Add Products</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>501</x>
+      <y>11</y>
+      <width>162</width>
+      <height>80</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font-size: 60px;
+font-weight: 600;
+color: white;</string>
+    </property>
+    <property name="text">
+     <string>Portal</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>679</x>
+      <y>779</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: blue;
+font-size: larger;
+font-weight: 400;
+border: none;
+border-radius: 20px;
+background-color: white;</string>
+    </property>
+    <property name="text">
+     <string>Edit Product</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>569</x>
+      <y>779</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: blue;
+font-size: larger;
+font-weight: 400;
+border: none;
+border-radius: 20px;
+background-color: white;</string>
+    </property>
+    <property name="text">
+     <string>Delete Product</string>
+    </property>
+   </widget>
+   <widget class="QTableWidget" name="Product_Table">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>160</y>
+      <width>741</width>
+      <height>311</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Rockwell</family>
+      <pointsize>12</pointsize>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white;</string>
+    </property>
+    <property name="textElideMode">
+     <enum>Qt::ElideRight</enum>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>90</y>
+      <width>311</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: white;
+font-size: 30px;
+font-weight: 400;</string>
+    </property>
+    <property name="text">
+     <string>All Products Inventory</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>11</x>
+      <y>11</y>
+      <width>327</width>
+      <height>80</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: white;
+font-size: 60px;
+font-weight: 600;
+</string>
+    </property>
+    <property name="text">
+     <string>Welcome to</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>344</x>
+      <y>11</y>
+      <width>151</width>
+      <height>80</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: blue;
+font-size: 60px;
+font-weight: 600;
+</string>
+    </property>
+    <property name="text">
+     <string>Seller</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtons">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>490</y>
+      <width>151</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: blue;
+font-size: larger;
+font-weight: 400;
+border: none;
+border-radius: 20px;
+background-color: white;</string>
+    </property>
+    <property name="text">
+     <string>Add Products</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtons_2">
+    <property name="geometry">
+     <rect>
+      <x>460</x>
+      <y>490</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: blue;
+font-size: larger;
+font-weight: 400;
+border: none;
+border-radius: 20px;
+background-color: white;</string>
+    </property>
+    <property name="text">
+     <string>Edit Product</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtons_3">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>490</y>
+      <width>151</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: blue;
+font-size: larger;
+font-weight: 400;
+border: none;
+border-radius: 20px;
+background-color: white;</string>
+    </property>
+    <property name="text">
+     <string>Delete Product</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtons_4">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>30</y>
+      <width>91</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: blue;
+font-size: larger;
+font-weight: 400;
+border: none;
+border-radius: 20px;
+background-color: white;</string>
+    </property>
+    <property name="text">
+     <string>Log Out</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>821</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
